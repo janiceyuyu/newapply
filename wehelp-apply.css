@@ -1,0 +1,51 @@
+/*標籤名稱選擇器*/
+body{background-color:#87d4da;
+    margin-bottom: 80px;
+}
+.headline{
+    display:flex;
+    justify-content:center;
+    align-items: center;/*垂直對齊*/
+    height: 100px;
+    margin-bottom: 20px;
+   
+       
+}
+
+.text{
+    width:600px;height:50px;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    color:white
+}
+/*class/選擇器*/
+
+.content{
+    align-items: center;
+    margin-left: 200PX;
+    margin-right: 200pX;
+    margin-bottom: 30px;
+    padding:25px;
+    border:1px ;border-radius:15px;
+    background-color:white
+   
+
+
+  
+
+}
+.content-title{
+    color:black;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-decoration:underline;
+   
+
+}
+.content-text{
+    color:black
+    
+
+}
