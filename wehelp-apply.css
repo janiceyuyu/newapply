@@ -49,4 +49,8 @@ body{background-color:#87d4da;
     .text{
         font-size: 30px;
 }
+    .headline{
+        margin-bottom: 5px;
+        height: 60px;
+}
 }
