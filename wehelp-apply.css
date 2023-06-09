@@ -44,9 +44,9 @@ body{background-color:#87d4da;
 .content-text{
     color:black
     }
-@media(max-width:500px)
+
+@media (max-width:500px){
     .text{
         font-size: 30px;
-
-
+}
 }
