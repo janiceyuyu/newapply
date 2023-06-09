@@ -23,16 +23,13 @@ body{background-color:#87d4da;
 
 .content{
     align-items: center;
-    margin-left: 200PX;
-    margin-right: 200pX;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 30px;
     padding:25px;
     border:1px ;border-radius:15px;
     background-color:white
    
-
-
-  
 
 }
 .content-title{
@@ -46,6 +43,10 @@ body{background-color:#87d4da;
 }
 .content-text{
     color:black
-    
+    }
+@media(max-width:500px)
+    .text{
+        font-size: 30px;
+
 
 }
